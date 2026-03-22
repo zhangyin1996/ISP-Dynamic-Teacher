@@ -1,4 +1,5 @@
 # ISP Dynamic Teacher
+## [Pattern Recognition 2026] Image Signal Process with Dynamic Class-rebalanced and IoU-threshold for Unsupervised Domain Adaptive Dark Object Detection
 This is the code for our extended version of AAAI2024 paper ISP-Teacher.
 + The **Environment**, **Dataset**, **Train command** and **Evaluation command** are the same as [[ISP-Teacher](https://github.com/zhangyin1996/ISP-Teacher)]
 
