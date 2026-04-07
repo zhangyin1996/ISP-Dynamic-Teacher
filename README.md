@@ -26,3 +26,16 @@ python train_net.py --num-gpus 4 --config configs/faster_rcnn_R50_bdd100k.yaml O
 ## 4. Results
 
 ![image text](https://github.com/zhangyin1996/ISP-Dynamic-Teacher/blob/main/results.jpg)
+
+## 5. Citation
+If you find ISP-Teacher useful in your research, please consider citing:
+```
+@article{zhang2026image,
+  title={Image Signal Process with Dynamic Class-rebalanced and IoU-threshold for Unsupervised Domain Adaptive Dark Object Detection},
+  author={Zhang, Yin and Zhang, Yongqiang and Zhang, Zian and Zhang, Man and Tian, Rui and Ding, Mingli and Raducanu, Bogdan and Liu, Dan},
+  journal={Pattern Recognition},
+  pages={113516},
+  year={2026},
+  publisher={Elsevier}
+}
+```
