@@ -1,9 +1,12 @@
 # ISP Dynamic Teacher
 ## [Pattern Recognition 2026] Image Signal Process with Dynamic Class-rebalanced and IoU-threshold for Unsupervised Domain Adaptive Dark Object Detection
-This is the code for our extended version of AAAI2024 paper ISP-Teacher.
-+ The **Environment**, **Dataset**, **Train command** and **Evaluation command** are the same as [[ISP-Teacher](https://github.com/zhangyin1996/ISP-Teacher)]
+This is the code for our extended version of AAAI2024 paper [ISP-Teacher](https://github.com/zhangyin1996/ISP-Teacher).
++ 2026-04-06 Paper is published. [here](https://www.sciencedirect.com/science/article/pii/S0031320326004826)
+
+![Framework Overview](https://github.com/zhangyin1996/zhangyin1996.github.io/blob/main/images/YZhang-PR2026.png)
 
 ## 1. Environment 
++ The **Environment**, **Dataset**, **Train command** and **Evaluation command** are the same as [[ISP-Teacher](https://github.com/zhangyin1996/ISP-Teacher)]
 + Detectron2==0.6  [[Install Link](https://detectron2.readthedocs.io/en/latest/tutorials/install.html)]  **Important !!!**
 + Install the appropriate versions of PyTorch and torchvision for your machine.
 + **In our setting:** 
